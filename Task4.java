@@ -3,9 +3,9 @@ package Tasks;
 public class Task4 {
 
 	public static void main(String[] args) {   
-		double a, b; // два катета   
-		double c = 0; // гипотенуза   
-		double s; // периметр   
+		double a, b; // РґРІР° РєР°С‚РµС‚Р°
+		double c = 0; // РіРёРїРѕС‚РµРЅСѓР·Р°
+		double s; // РїРµСЂРёРјРµС‚СЂ
 		  
 		a = 30;   
 		b = 15; 
@@ -13,7 +13,7 @@ public class Task4 {
 	  c = Math.sqrt(a * a + b * b);   
 	  s = 0.5 * a * b; 
 	 
-	  System.out.println("Гипотенуза = " + c + " площадь = " + s);  
+	  System.out.println("Р“РёРїРѕС‚РµРЅСѓР·Р° = " + c + " РџРµСЂРёРјРµС‚СЂ = " + s);  
 	  } 
 	} 
 
