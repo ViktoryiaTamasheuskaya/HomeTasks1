@@ -15,6 +15,6 @@ public class Task5 {
 		  double sum=0;   
 		  sum=a+b+c+d;
 		 
-		  System.out.println("Ñóììà a,b,c è d = " + sum);  
+		  System.out.println("Ğ¡ÑƒĞ¼Ğ¼Ğ° a,b,c Ğ¸ d = " + sum);  
 		  } 
 	} 
